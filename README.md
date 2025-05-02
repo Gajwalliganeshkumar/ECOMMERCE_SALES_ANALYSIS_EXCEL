@@ -1,6 +1,6 @@
-# ECOMMERCE_SALES_ANALYSIS_EXCEL DAHBOARD
+ECOMMERCE_SALES_ANALYSIS_EXCEL DAHBOARD
 
-# THE QUESTIONS I HAVE FOCUSED ON THIS PROJECT HAS GIVEN BELOW.
+ THE QUESTIONS I HAVE FOCUSED ON THIS PROJECT HAS GIVEN BELOW.
 
 # Country & Category Analysis
 Which top 10 countries generated the highest total sales, and how does the sales volume differ across them?
